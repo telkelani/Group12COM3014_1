@@ -1,0 +1,10 @@
+@import "../App";
+.jumbotron {
+  background-color: $test !important;
+  border-radius: 0px !important;
+}
+
+.animate__animated.animate__pulse {
+  --animate-duration: 1.5s;
+  -webkit-animation-iteration-count: infinite;
+}

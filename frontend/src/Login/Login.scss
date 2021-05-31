@@ -1,0 +1,13 @@
+@import "../App";
+#loginform {
+  width: 1000px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: $rich_black;
+  padding: 50px;
+  margin: 50px;
+  background-color: $wheat;
+  -webkit-box-shadow: 1px -2px 39px -7px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 1px -2px 39px -7px rgba(0, 0, 0, 0.75);
+  box-shadow: 1px -2px 20px -7px rgba(0, 0, 0, 0.75);
+}

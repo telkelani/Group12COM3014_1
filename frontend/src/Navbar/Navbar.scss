@@ -1,0 +1,10 @@
+@import "../App";
+
+.navbar {
+  background-color: $test;
+}
+
+.animate__animated.animate__pulse {
+  --animate-duration: 0.4s;
+  -webkit-animation-iteration-count: infinite;
+}

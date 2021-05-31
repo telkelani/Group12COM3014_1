@@ -1,0 +1,32 @@
+.chatbox {
+  width: 1000px;
+  height: 800px;
+  padding-top: 5px;
+  background-color: grey;
+}
+
+.messagebox {
+  margin: 35px;
+  padding: 10px;
+  background-color: white;
+  height: 600px;
+  width: 900px;
+  //   overflow-y: "scroll";
+  margin: 4px, 4px;
+  padding: 4px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align: justify;
+}
+
+.input-group {
+  padding: 50px;
+  padding-right: 70px;
+  position: absolute;
+  bottom: 0;
+}
+
+.container {
+  margin-top: 50px;
+  position: relative;
+}
